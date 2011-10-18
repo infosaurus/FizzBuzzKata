@@ -1,0 +1,6 @@
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataFizzBuzz\KataFizzBuzz\bin\Debug\KataFizzBuzz.dll
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataFizzBuzz\KataFizzBuzz\bin\Debug\KataFizzBuzz.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataFizzBuzz\KataFizzBuzz\bin\Debug\nunit.framework.dll
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataFizzBuzz\KataFizzBuzz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataFizzBuzz\KataFizzBuzz\obj\Debug\KataFizzBuzz.dll
+C:\Users\Guillaume\Documents\Visual Studio 2008\Projects\KataFizzBuzz\KataFizzBuzz\obj\Debug\KataFizzBuzz.pdb
